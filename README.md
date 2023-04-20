@@ -4,7 +4,7 @@ Ovaj projekt je rađen kao završni ispit za Front-End Developera
 
 ## Tehnologije
 
-Projekt je rađen u VS Codeu, pomoću:
+Projekt je rađen u Visual Studio Codeu, pomoću:
 
 - React 18.2.0
 - Scaledrone
@@ -15,7 +15,7 @@ Besplatno se registriraj na [Scaledrone](https://www.scaledrone.com).\
 Izradi novi kanal, nakon čega dobiješ Channel ID, kojeg zalijepiš u .env datoteku
 
 ```javascript
-/* Scaledrone Channel ID */
+/* Datoteka .env > Scaledrone Channel ID */
 REACT_APP_SCALEDRONE_CHANNEL_ID = Ovdje_Zalijepi_Channel_ID
 ```
 
@@ -24,7 +24,7 @@ REACT_APP_SCALEDRONE_CHANNEL_ID = Ovdje_Zalijepi_Channel_ID
 Instaliraj lokalno koristeći npm:
 
 ```
-nmp i
+npm i
 npm start
 ```
 
