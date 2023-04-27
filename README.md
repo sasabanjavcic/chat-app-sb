@@ -11,8 +11,9 @@ Projekt je rađen u Visual Studio Codeu, pomoću:
 
 ## Povezivanje na Scaledrone
 
-Besplatno se registriraj na [Scaledrone](https://www.scaledrone.com).\
-Izradi novi kanal, nakon čega dobiješ Channel ID, kojeg zalijepiš u .env datoteku
+- Besplatno se registriraj na [Scaledrone](https://www.scaledrone.com).\
+- Izradi novi kanal, nakon čega dobiješ Channel ID, kojeg zalijepiš u .env datoteku
+- Datoteku .env postavi u glavnom root folderu
 
 ```javascript
 /* Datoteka .env > Scaledrone Channel ID */
@@ -35,7 +36,7 @@ npm start
 - Brisanje vlastite poruke
 - Zvuk za slanje/brisanje poruke
 
-## Screenshoot
+## Screenshot
 
 <p align="center">
 <img src="./github_img/light-theme.png" width="830" height="auto" >
